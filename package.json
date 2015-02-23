@@ -1,6 +1,7 @@
 {
   "main": "index.html",
   "name": "nw-demo",
+  "inject-js-start": "inject.js",
   "description": "demo app of node-webkit",
   "version": "0.1.0",
   "keywords": [
